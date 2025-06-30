@@ -48,8 +48,8 @@ To answer key business questions:
 
 ### 📁 **Deliverables**
 
-- [Power BI Dashboard (.pbix)](link-to-pbix-file)
-- [Dashboard Screenshot (.png)](link-to-screenshot)
+- [Power BI Dashboard (.pbix)](https://github.com/Lil729/Global-Job-Market-Intelligence-/blob/main/Procurement%20Capstone%20Project.pbix)
+- [Dashboard Screenshot (.png)](https://github.com/Lil729/Global-Job-Market-Intelligence-/blob/main/Screenshot%202025-06-30%20202120.png)
 - Insight summary (this README)
 
 ---
@@ -65,7 +65,7 @@ To answer key business questions:
 
 ### 📸 **Dashboard Preview**
 
-![Job Market Dashboard Preview](link-to-your-screenshot)
+![Job Market Dashboard Preview](https://github.com/Lil729/Global-Job-Market-Intelligence-/blob/main/Screenshot%202025-06-30%20202120.png)
 
 ---
 
