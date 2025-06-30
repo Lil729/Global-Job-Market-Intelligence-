@@ -18,7 +18,7 @@ To answer key business questions:
 ### 🛠️ **Tools Used**
 
 - **Power BI** – data cleaning, transformation, interactive dashboard
-- **Excel** – initial exploration (optional)
+- **Excel** – initial exploration 
 - **DAX** – calculated columns and data grouping
 
 ---
