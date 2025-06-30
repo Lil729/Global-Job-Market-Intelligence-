@@ -31,7 +31,7 @@ To answer key business questions:
   - Location
   - Category
   - Seniority
-  - Keywords
+  - Skills
   - Contract Type
 
 ---
