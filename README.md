@@ -41,7 +41,7 @@ To understand the global job market by analyzing:
 
 ### 🖼️ Dashboard Preview
 
-![Global Job Market Dashboard](link-to-your-dashboard-image.png)
+![Global Job Market Dashboard](https://github.com/Lil729/Global-Job-Market-Intelligence-/blob/main/Screenshot%202025-06-30%20202120.png))
 
 ---
 
