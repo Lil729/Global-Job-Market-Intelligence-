@@ -15,10 +15,10 @@ To understand the global job market by analyzing:
 ---
 
 ### 🛠 Tools & Techniques Used
-- **Excel** — data cleaning, text splitting, binning salaries, creating Month-Year columns
-- **SQL (SQLite)** — querying top skills by industry and job type
-- **Power BI** — interactive dashboard with DAX for calculated KPIs
-- **Power Query** — transforming semi-structured skills data
+- **Excel** – data cleaning, salary binning, month-year feature creation
+- **SQL (SQLite)** – querying top skills by industry and job type
+- **Power Query** – splitting and transforming semi-structured skills data
+- **Power BI** – interactive dashboard design with DAX-based KPIs
 
 ---
 
@@ -53,7 +53,7 @@ To understand the global job market by analyzing:
 ---
 ### 🚀 Outcome
 
-This capstone project demonstrates my **end-to-end data analysis workflow**: from cleaning and SQL querying to advanced Power BI visualization – tailored to real-world business, HR, and recruitment decision-making.
+This capstone project demonstrates my **end-to-end data analysis workflow**: from cleaning and SQL querying to advanced Power BI visualization – tailored to real-world business, HR teams, job seekers, and policymakers, enabling data-driven employment decisions.
 
 ---
 
