@@ -46,7 +46,7 @@ To understand the global job market by analyzing:
 ---
 
 ### 📁 Deliverables
-- [Excel Cleaned Dataset (.xlsx)](link)
+- [Excel Cleaned Dataset (.xlsx)](https://github.com/Lil729/Global-Job-Market-Intelligence-/blob/main/Book1.xlsx)
 - [SQL Queries (.sql)](https://github.com/Lil729/Global-Job-Market-Intelligence-/blob/main/job_market_analysis_queries.sql)
 - [Power BI Dashboard (.pbix)](https://github.com/Lil729/Global-Job-Market-Intelligence-/blob/main/Procurement%20Capstone%20Project.pbix)
 - Insight Summary (in README)
